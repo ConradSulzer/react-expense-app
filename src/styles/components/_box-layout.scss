@@ -1,0 +1,24 @@
+.box-layout {
+    align-items: center;
+    background: rgb(208, 245, 154);
+    background-size: cover;
+    display: flex;
+    height: 100vh;
+    justify-content: center;;
+    width: 100vw
+}
+
+.box-layout__box {
+    background: white;
+    border-radius: 5px;
+    padding: 2.8rem;
+    text-align: center;
+    max-width: 40rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.box-layout__title {
+    margin: 0 0 $m-size 0;
+    line-height: 1;
+}
