@@ -1,0 +1,5 @@
+2021/01/21-20:29:05.477 5030 Reusing MANIFEST C:\Users\conra\OneDrive\Projects\Mead React Projects\expensify-app\~\.chrome-disable-web-security\Default\IndexedDB\https_49b2b3e2f2a85b0d767925fb07078603.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/21-20:29:23.140 5030 Level-0 table #5: started
+2021/01/21-20:29:23.147 5030 Level-0 table #5: 439 bytes OK
+2021/01/21-20:29:23.155 5030 Delete type=0 #3
+2021/01/21-20:29:23.156 5030 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
