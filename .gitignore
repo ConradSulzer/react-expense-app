@@ -1,3 +1,9 @@
 node_modules
 public/dist/
 .env.development
+public/bundle.js
+public/bundle.js.map
+public/styles.css
+public/styles.css.map
+~/.chrome-disable-web-security/Default/Cache/data_3
+.gitignore
