@@ -1,4 +1,4 @@
-About
+<strong>About</strong>
 
 A basic React app for tracking expenses using Firebase.
 
