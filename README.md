@@ -1,0 +1,5 @@
+About
+
+A basic React app for tracking expenses using Firebase.
+
+Live demo: react-exp-app-sulzer.herokuapp.com/
